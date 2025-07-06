@@ -339,7 +339,7 @@ body {
     animation: fadeOut 1s ease 5s forwards;
 }
 
-@keyframe fadeOut {
+@keyframes fadeOut {
    to {
    visibility: hidden;
    opacity: 0;
